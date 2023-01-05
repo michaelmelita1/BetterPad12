@@ -1,5 +1,5 @@
 Package: com.michaelmelita1.betterpad12
-Version: 0.0.3
+Version: 0.0.4
 Architecture: iphoneos-arm
 Maintainer: Michael Melita
 Depends: mobilesubstrate, firmware (<= 12.7), cy+model.ipad (= 4.1) | cy+model.ipad (= 4.2) | cy+model.ipad (= 4.3) | cy+model.ipad (= 4.4)| cy+model.ipad (= 4.5) | cy+model.ipad (= 4.6) | cy+model.ipad (= 4.7) | cy+model.ipad (= 4.8) | cy+model.ipad (= 4.9)
